@@ -1,6 +1,6 @@
 # Hello, I am Gabriel Eduardo :wave: 😄
 
-My name is `Gabriel Eduardo` and I'm a **Junior DevOps Engineer**. I'm from Brazil, living in Goiânia/GO. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-eduardo-729263144/)](https://www.linkedin.com/in/gabriel-eduardo-729263144/).
+My name is `Gabriel Eduardo` and I'm a **DevOps Engineer**. I'm from Brazil, living in Goiânia/GO. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-eduardo-729263144/)](https://www.linkedin.com/in/gabriel-eduardo-729263144/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
